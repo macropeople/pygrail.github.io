@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://pygrail.com/sitemap.xml
